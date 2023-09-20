@@ -1,6 +1,2 @@
-### Hi there 👋
-
-<!--
-**erekie/erekie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas 
+ola sou o ereck e neste perfil postarei meu projetos de pensamento computacional
+sou estudante do ensino medio
